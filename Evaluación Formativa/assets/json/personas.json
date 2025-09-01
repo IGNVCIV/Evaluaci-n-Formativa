@@ -1,0 +1,30 @@
+[
+  {
+    "usuario": "juanito23",
+    "rut": "12345678",
+    "dv": "9",
+    "rutCompleto": "12345678-9",
+    "nombres": "Juan Carlos",
+    "apellidoPaterno": "Pérez",
+    "apellidoMaterno": "González",
+    "correo": "juanito@example.com",
+    "fechaNacimiento": "1995-04-15",
+    "telefono": "987654321",
+    "direccion": "Av. Siempre Viva 123",
+    "region": "7" 
+  },
+  {
+    "usuario": "maria2025",
+    "rut": "87654321",
+    "dv": "K",
+    "rutCompleto": "87654321-K",
+    "nombres": "María Fernanda",
+    "apellidoPaterno": "López",
+    "apellidoMaterno": "Rodríguez",
+    "correo": "mariaf@example.com",
+    "fechaNacimiento": "1998-09-30",
+    "telefono": "912345678",
+    "direccion": "Calle Primavera 456",
+    "region": "13"
+  }
+]
